@@ -1,6 +1,6 @@
 # **Immutable Web Server Application Load Balancer**
 
-Creates an immutable two web servers on private networks. The web servers accept requests through the application load balancer and these ones are available through NAT gateways.
+Creates a web servers through the autoscaling group on private networks. The web servers accept requests through the application load balancer and these ones are available through NAT gateways.
 
 ## **Author**
 
